@@ -1,0 +1,8 @@
+prefix=/home/action/vo_test04/devel
+
+Name: visual_odometry
+Description: Description of visual_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
